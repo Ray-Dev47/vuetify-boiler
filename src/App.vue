@@ -1,11 +1,12 @@
 <template>
   <v-app>
-    <v-app-bar
+    <!-- <v-app-bar
       app
       color="primary"
       dark
-    >
-      <div class="d-flex align-center">
+      
+    > -->
+      <!-- <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
           class="shrink mr-2"
@@ -35,11 +36,11 @@
         <span class="mr-2">Latest Release</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
-    </v-app-bar>
+    </v-app-bar> -->
 
-    <v-main>
+    <v-content>
       <router-view/>
-    </v-main>
+    </v-content>
   </v-app>
 </template>
 
