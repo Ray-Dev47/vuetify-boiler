@@ -12,6 +12,11 @@
      <h1 class="body-2">text body class 2</h1>
      <p class="caption">Caption</p>
      <p class="text-uppercase">text transform uppercase</p>
+
+
+     <!-- button and icons -->
+     
+
   </div>
 </template>
 
