@@ -1,5 +1,8 @@
 <template>
   <div class="home">
+
+
+    <!-- colors and text -->
     <h1>This is home</h1>
     <p class="red white--text" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur ratione incidunt iste natus corrupti voluptates similique inventore, possimus sit eius quos harum enim repellendus? Culpa a perspiciatis perferendis! Numquam, blanditiis?</p>
     <p class="pink lighten-5 red--text text-darken-2 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet cupiditate unde magnam eius praesentium fugiat esse at deleniti reprehenderit vitae neque adipisci, optio itaque repellendus quibusdam? Officia exercitationem rerum esse reiciendis consequuntur laudantium saepe dolores, labore dicta nam eveniet fugiat fuga, quia dolorem rem. Aut, dolores tempora ipsum natus at doloremque maiores incidunt eligendi autem voluptate asperiores numquam quisquam eaque magni laborum mollitia ea repellat in laudantium optio. Possimus inventore sequi voluptatibus pariatur dolor accusantium, voluptas ad quia maiores ipsam doloribus iusto architecto animi rem numquam explicabo eum atque error, optio doloremque perspiciatis aperiam officia tempore tempora! Corporis, obcaecati adipisci.</p>
@@ -15,8 +18,17 @@
 
 
      <!-- button and icons -->
-     
+     <v-btn >Click</v-btn>
 
+     <v-row 
+     align="center"
+     justify="space-around"
+     >
+
+     </v-row>
+
+     
+   
   </div>
 </template>
 
